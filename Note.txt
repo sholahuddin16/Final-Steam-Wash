@@ -1,0 +1,6 @@
+link register
+http://localhost:3000/registernyohaka154555
+
+user admin
+Email   : admin1545@gmail.com
+Pass    : 123456
